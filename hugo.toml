@@ -1,0 +1,93 @@
+baseURL = "https://talesaraujo.github.io/"
+title = "Tales Araujo"
+theme = "hugo-coder"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[pagination]
+  pagerSize = 6
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  author = "Tales Araujo"
+  avatarURL = "images/avatar.jpeg"
+  dateFormat = "January 2, 2006"
+  colorScheme = "auto"
+  hideColorSchemeToggle = false
+  customSCSS = ["scss/custom.scss"]
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/talesaraujo"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/talesaraujo/"
+
+[[params.social]]
+  name = "Email"
+  icon = "fa-solid fa-envelope fa-2x"
+  weight = 3
+  url = "mailto:talesaraujodossantos@gmail.com"
+
+# ── English ──────────────────────────────────────────────────────
+
+[languages.en]
+  languageName = ":uk:"
+  title = "Tales Araujo"
+
+[languages.en.params]
+  description = "Senior Data Engineer | Bachelor in Computer Engineering"
+  keywords = "data engineer,software developer,python,portfolio"
+  info = ["Senior Data Engineer", "Bachelor in Computer Engineering"]
+
+[[languages.en.menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+
+[[languages.en.menu.main]]
+  name = "Experience"
+  weight = 2
+  url = "experience/"
+
+[[languages.en.menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
+
+# ── Português (BR) ──────────────────────────────────────────────
+
+[languages.pt-br]
+  languageName = ":brazil:"
+  title = "Tales Araujo"
+
+[languages.pt-br.params]
+  description = "Engenheiro de Dados Sênior | Bacharel em Engenharia da Computação"
+  keywords = "engenheiro de dados,desenvolvedor,python,portfólio"
+  info = ["Engenheiro de Dados Sênior", "Bacharel em Engenharia da Computação"]
+
+[[languages.pt-br.menu.main]]
+  name = "Sobre"
+  weight = 1
+  url = "about/"
+
+[[languages.pt-br.menu.main]]
+  name = "Experiência"
+  weight = 2
+  url = "experience/"
+
+[[languages.pt-br.menu.main]]
+  name = "Projetos"
+  weight = 3
+  url = "projects/"
