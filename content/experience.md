@@ -3,10 +3,17 @@ title = "Experience"
 slug = "experience"
 +++
 
-## SONDA — Senior Data Engineer
-**2023 - Present** | `SQL` `Python` `Spark` `pandas`
+## Stefanini Group — Senior Data Engineer
+**2025 - Present** | `Python` `Apache Airflow` `Tekton`
 
-Currently working as a Data Engineer outsourced by Banco do Nordeste do Brasil (BNB). Focused on developing data pipelines and processes that enforce and leverage data governance practices, with an emphasis on prototyping well-established commercial and open source data processing and treatment tools, as well as developing and maintaining visualizations and infrastructure to support data processing and monitoring.
+Currently working as a Data Engineer focused on developing end-to-end data pipeline solutions in Python using open-source technologies, with Apache Airflow as the primary orchestration tool. Responsible for implementing and maintaining CI/CD pipelines with Tekton and building auxiliary tooling to support job migration and data governance processes.
+
+---
+
+## SONDA — Senior Data Engineer
+**2023 - 2025** | `SQL` `Python` `Spark` `pandas`
+
+Worked as a Data Engineer outsourced by Banco do Nordeste do Brasil (BNB). Focused on developing data pipelines and processes that enforce and leverage data governance practices, with an emphasis on prototyping well-established commercial and open source data processing and treatment tools, as well as developing and maintaining visualizations and infrastructure to support data processing and monitoring.
 
 ---
 
@@ -25,7 +32,7 @@ Played the role of a back-end developer in the construction of an assistive syst
 ---
 
 ## Dell LEAD — Intern Developer
-**2020 - 2021** | `Python` `Flask` `React.js`
+**2020 - 2021** | `Python` `Flask` `React.js` `MongoDB`
 
 Worked on the development of a centralized work management system for IT professionals (developers, testers, data engineers, etc.) that could serve as an add-on extension to the Azure DevOps platform. The Product Owners and Software Engineers involved in managing some teams within DELL could have a clear view of the progress of the work. The developed system employed the use of an artificial intelligence model that relied on user stories to estimate workload in relation to time.
 
@@ -35,3 +42,10 @@ Worked on the development of a centralized work management system for IT profess
 **2017** | `SQL` `PHP`
 
 Served as support for the development of an evaluations and polls system for the UFC's Self-Assessment Commission, the entity responsible for developing self-assessment metrics for the institution.
+
+---
+
+## Rondon Project — Volunteer Scholarship Holder
+**2018** | `Python`
+
+Delivered a course on Introduction to Programming Logic using the Python programming language to students from 9th grade to the 3rd year of high school as an outreach activity developed by the Extension Pro-Rectory of the Federal University of Ceará in underserved communities in the interior of the state.

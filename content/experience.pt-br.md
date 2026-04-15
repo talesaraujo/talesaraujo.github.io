@@ -3,8 +3,15 @@ title = "Experiência"
 slug = "experience"
 +++
 
+## Stefanini Group — Engenheiro de Dados Sênior
+**2025 - Presente** | `Python` `Apache Airflow` `Tekton`
+
+Atuando como Engenheiro de Dados com foco no desenvolvimento de soluções de pipeline de dados de ponta a ponta em Python utilizando tecnologias open-source, com Apache Airflow como principal ferramenta de orquestração. Responsável por implementar e manter pipelines de CI/CD com Tekton e criar ferramentas auxiliares para suportar migração de jobs e processos de governança de dados.
+
+---
+
 ## SONDA — Engenheiro de Dados Sênior
-**2023 - Presente** | `SQL` `Python` `Spark` `pandas`
+**2023 - 2025** | `SQL` `Python` `Spark` `pandas`
 
 Atuando como Engenheiro de Dados terceirizado pelo Banco do Nordeste do Brasil (BNB). Focado no desenvolvimento de pipelines de dados e processos que aplicam e potencializam práticas de governança de dados, com ênfase na prototipagem de ferramentas comerciais e open-source consolidadas para processamento e tratamento de dados, além de desenvolver e manter visualizações e infraestrutura para suporte ao processamento e monitoramento de dados.
 
@@ -25,7 +32,7 @@ Atuei como desenvolvedor back-end na construção de um sistema assistivo que pu
 ---
 
 ## Dell LEAD — Estagiário Desenvolvedor
-**2020 - 2021** | `Python` `Flask` `React.js`
+**2020 - 2021** | `Python` `Flask` `React.js` `MongoDB`
 
 Trabalhei no desenvolvimento de um sistema centralizado de gestão de trabalho para profissionais de TI (desenvolvedores, testadores, engenheiros de dados, etc.) que pudesse servir como uma extensão complementar à plataforma Azure DevOps. Os Product Owners e Engenheiros de Software envolvidos na gestão de algumas equipes dentro da DELL podiam, dessa forma, ter uma visão clara do andamento do trabalho. O sistema desenvolvido empregou o uso de um modelo de inteligência artificial que se baseava em user stories para estimar carga de trabalho em relação ao tempo.
 
@@ -35,3 +42,10 @@ Trabalhei no desenvolvimento de um sistema centralizado de gestão de trabalho p
 **2017** | `SQL` `PHP`
 
 Atuei como suporte no desenvolvimento de um sistema de avaliações e enquetes para a Comissão Própria de Avaliação da UFC, entidade responsável por desenvolver métricas de autoavaliação da instituição.
+
+---
+
+## Projeto Rondon — Bolsista Voluntário
+**2018** | `Python`
+
+Ministrei um curso de Introdução à Lógica de Programação, usando a linguagem Python, para estudantes do 9º ano ao 3º ano do ensino médio como atividade de extensão desenvolvida pela Pró-Reitoria de Extensão da Universidade Federal do Ceará em comunidades carentes do interior do estado.
