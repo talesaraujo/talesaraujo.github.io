@@ -38,3 +38,4 @@ UFC - Universidade Federal do Ceará
 ## Comunicação
 
 **Inglês** - Nível Avançado (C1)
+
